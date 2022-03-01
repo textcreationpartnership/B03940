@@ -1,0 +1,430 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for prayer, for the Diocess of Bath and Wells. To the poor inhabitants within the Diocess of Bath and Wells, Thomas their unworthy bishop wisheth the knowledge and the love of God.</title>
+            <author>Ken, Thomas, 1637-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03940</idno>
+            <idno type="STC">Wing K260AB</idno>
+            <idno type="STC">ESTC R188364</idno>
+            <idno type="EEBO-CITATION">52614733</idno>
+            <idno type="OCLC">ocm 52614733</idno>
+            <idno type="VID">175928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175928)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for prayer, for the Diocess of Bath and Wells. To the poor inhabitants within the Diocess of Bath and Wells, Thomas their unworthy bishop wisheth the knowledge and the love of God.</title>
+                  <author>Ken, Thomas, 1637-1711.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Charles Brome,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Some text in black letter.</note>
+                  <note>Known to be issued in at least two settings of type. This printing has "Price 2d." below caption title, and has catchword "this" on p. 1.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="instructions">
+            <pb n="1" facs="tcp:175928:1"/>
+            <head>
+               <hi>Directions for Prayer, for the Dio<g ref="char:EOLhyphen"/>ceſs of</hi> Bath
+<hi>and</hi> Wells.</head>
+            <head type="sub">To the poor Inhabitants within the Dioceſs of
+<hi>Bath</hi> and <hi>Wells,</hi> THOMAS their Unworthy Biſhop wiſheth the Knowledge and the Love of God.</head>
+            <head type="sub">Price 2 <hi>d.</hi>
+            </head>
+            <opener>
+               <salute>Dearly beloved in our Lord,</salute>
+            </opener>
+            <p>THE Catechiſm truly teaches all <hi>Chriſtians,</hi> That they are <hi>not able of themſelves to do thoſe things</hi> they have vow'd in their Baptiſm to do, namely, <hi>To walk in the Commandments of God, and to ſerve him, without his ſpecial grace,</hi> or favor<g ref="char:EOLhyphen"/>able Aſſiſtance, and this <hi>they are to learn at all times to call upon</hi> God <hi>for, by diligent Prayer.</hi>
+            </p>
+            <p>How good and ſeaſonable this advice is, you will all ſee, if you conſider what helpleſs and needy Creatures the ve<g ref="char:EOLhyphen"/>ry beſt of Men are. Alas! our weakneſs is very great, our wants are very many, our dependance on God for all things, all our lives long, is entire, and abſolute, and ne<g ref="char:EOLhyphen"/>ceſſary, and there is no way in the World to gain help and ſupplies from God, but by Prayer; ſo that it is as ea<g ref="char:EOLhyphen"/>ſie, and as poſſible to preſerve a natural Life without daily Bread, as a <hi>Chriſtian</hi> Life without daily Prayer.</p>
+            <p>It was for this reaſon that our Saviour himſelf took a particular care, to teach <hi>his Diſciples to pray,</hi> [Luke 11.1.] and it is for the ſame reaſon, and in imitation of our Heavenly Maſter, that I have joyn'd theſe Directions for Prayer to the Catechiſm.</p>
+            <p>Sure I am, the Zeal I ought to have for your Salvation can ſuggeſt to me nothing more conducing to the good of your Souls, than to exhort and beſeech you all of ei<g ref="char:EOLhyphen"/>ther Sex, to learn how to Pray.</p>
+            <p>
+               <pb n="2" facs="tcp:175928:2"/> This is the firſt general Requeſt I ſhall make to you, and I am the more earneſt in it, becauſe my own ſad experi<g ref="char:EOLhyphen"/>ence has taught me, how ſtrangely ignorant common People uſually are of this Duty; inſomuch, that ſome ne<g ref="char:EOLhyphen"/>ver Pray at all, pretending they was never taught, or that their Memories are bad, or that they are not Book<g ref="char:EOLhyphen"/>learn'd, or that they want Money to buy a Book; and by this means they live, or die rather like Beaſts than Men; nay, their Condition is much worſe than that of Beaſts, for the Miſery of a Beaſt doth end at Death, but the Miſery of a Wicked Man does then begin, and will endure to all Eternity.</p>
+            <p>To prevent then as much as lies in me, the Damnation of thoſe Souls which God has committed to my care, and to cure that lamentable ignorance and forgetfulneſs of God, which is the cauſe of the Damnation of ſo very many, I do not only inceſſantly pray for you my ſelf, but I beg of you all to pray for your ſelves, and I beſeech you to read the following Inſtructions<hi>:</hi> or if you cannot read your ſelves, to get ſome honeſt charitable Neighbours to read them often to you, that you may remember them, and God of his great Mercy reward the Charity of ſuch Neighbours.</p>
+            <p>If any of you, either by your own negligence, or by the negligence of your Parents, or for want of Catechi<g ref="char:EOLhyphen"/>ſing in your Pariſh, are wholly ignorant of your Duty; tho' it be a moſt ſhameful and dangerous thing, for one who calls himſelf a <hi>Chriſtian,</hi> to know nothing of Chriſt or Chriſtianity, yet if you are willing to learn, and beg pardon of God for your wilful ignorance hitherto, and will ſincerely do your endeavour to get ſaving knowledge, and heartily pray to God to aſſiſt you, you ſhall find, that the very <hi>entrance of God's Word giveth light, that it giveth underſtanding unto the ſimple.</hi> [Pſal. 119 130.]</p>
+            <p>I muſt warn you before-hand, that corrupt Nature will be very buſie in hindering the learning of your Duty, and thoughts will ariſe in your mind that the Task will be <pb n="3" facs="tcp:175928:2"/> too hard and too tedious for you to undertake; but I faith<g ref="char:EOLhyphen"/>fully promiſe you to impoſe no hard or tedious task on you, but ſuch, as you your ſelves ſhall confeſs, to be very complying with your Infirmities; for our moſt compaſſi<g ref="char:EOLhyphen"/>onate Saviour teaches me to ſay no more to you, than <hi>you can bear</hi> (John 16.
+12.)</p>
+            <p>All I ſhall exhort you to, is to learn your Catechiſm, which you may do by degrees; if you learn but a line or two in a Day, you will, by God's Bleſſing, in a very ſhort time learn it all over, and you will rejoice, and thank God, for the ſudden and happy progreſs you have made.</p>
+            <p>God forbid you ſhould ever think your ſelves too old to learn to ſerve God, and to be ſaved, both which are taught in the Catechiſm, and therefore the Catechiſm is of neceſſity to be learned; for how can you go to Heaven, if you never learn'd the way thither? How can you be ſaved, if you do not know your Saviour?</p>
+            <p>'Tis a great Error, to think that the Catechiſm was made for Children only, for all <hi>Chriſtians</hi> are equally con<g ref="char:EOLhyphen"/>cern'd in thoſe ſaving Truths which are there taught; and the Doctrine delivered in the Catechiſm is as proper for the ſtudy, and as neceſſary for the Salvation of a great Doctor, as of a weak <hi>Chriſtian,</hi> or a young Child.</p>
+            <p>But you will be the more encouraged to learn your Catechiſm, when you ſee how excellent a help it will be to Prayer, for it will at the ſame time further your Know<g ref="char:EOLhyphen"/>ledge, and your Devotion both together; and the Pray<g ref="char:EOLhyphen"/>ers I intend to commend to you, are chiefly the very An<g ref="char:EOLhyphen"/>ſwers in the Catechiſm, which being daily repeated, will be the better fix'd in your Memory, and you cannot ima<g ref="char:EOLhyphen"/>gine any advice for Prayer can be more eaſie and famili<g ref="char:EOLhyphen"/>ar, than that which directs you to turn your very Cate<g ref="char:EOLhyphen"/>chiſm into Prayers.</p>
+            <p>You are by this time I hope ſatisfied, that the Duty to which I exhort you, is no hard Task: and yet I will en<g ref="char:EOLhyphen"/>deavour, by God's aſſiſtance, to make it more eaſie, by putting you into an eaſie method to attain it.</p>
+            <p>
+               <pb n="4" facs="tcp:175928:3"/> If you are wholly ignorant of your Catechiſm, let it be your firſt care to learn ſuch Ejaculations, ſuch ſhort Prayers as theſe, and ſay them often and hear<g ref="char:EOLhyphen"/>tily.</p>
+            <q>
+               <p>
+                  <hi>Lord have mercy upon me.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt have mercy upon me.</hi>
+               </p>
+               <p>
+                  <hi>Lord have mercy upon me.</hi>
+               </p>
+               <p>
+                  <hi>Lord pardon all my wilful ignorance, and groſs care<g ref="char:EOLhyphen"/>leſſneſs of my Duty, for the ſake of Ieſus my Saviour.</hi> Amen.</p>
+               <p>O my God aſſiſt me in the learning of my Duty.</p>
+               <p>Lord help me to know, and to love thee.</p>
+               <p>Lord pity me, Lord ſave me, Father forgive me.</p>
+               <p>Glory be to thee, O Lord who haſt hitherto ſpar<g ref="char:EOLhyphen"/>ed me.</p>
+               <p>O that I might at laſt learn to glorifie, and love, and ſerve thee!</p> 
+            </q>
+            <p>Such ſhort Prayers as theſe, you may eaſily get by heart, and the Method in which I adviſe you to proceed, is, that in which Children are commonly taught, in regard I am now to look on you as a Child: For there are two ſorts of Children; there are Children in age, and <hi>Children in underſtanding,</hi> (1 Cor. 14. 20.) and in this latter reſpect you are Children, and the ſame method for the moſt part is proper for you, which is proper for thoſe that are Children in Age.</p>
+            <p>I muſt therefore feed you <hi>with Milk,</hi> before you can be capable of <hi>ſtrong Meat,</hi> (Heb. 5. 13.) and I muſt look on you as
+<hi>Lambs</hi> of my Flock, which I am to uſe tenderly, and theſe following Directions which I give to Parents, for the training up their Children in Piety, I do equally deſign for the training up of you. God of his Infinite Goodneſs, bleſs them to you both.</p>
+            <p>I exhort all you who are Parents, to inſtil good things into your Children as ſoon as ever they begin to ſpeak; <pb n="5" facs="tcp:175928:3"/> let the firſt words they utter, if it be poſſible, be theſe, <hi>Glory be to God,:</hi> Accuſtom them to repeat theſe words on their knees, as ſoon as they riſe, and when they go to Bed, and oftimes in the Day, and let them not eat or drink, without ſaying, <hi>Glory be to God.</hi>
+            </p>
+            <p>As their Speech grows more plain and eaſie to them, teach them who Made, and Redeem'd and ſanctified them, and for what end, namely to glorifie and to love God; and withal, teach them ſome of the ſhorteſt Ejaculations you can, ſuch as theſe.</p>
+            <q>
+               <p>Lord help me. Lord ſave me.</p>
+               <p>Lord have mercy upon me.</p>
+               <p>All love, all glory be to God who firſt lov'd me.</p>
+               <p>Lord keep me in thy love.</p> 
+            </q>
+            <p>Within a little time you may teach them the Lord's Prayer, and hear them ſay it every Day, Morning and Evening on their Knees, with ſome one or more of the fore-going Ejaculations; and by degrees as they grow up they will learn the Creed, and the whole Catechiſm.</p>
+            <p>Be ſure to teach your Children with all the ſweetneſs and gentleneſs you can, leſt if you ſhould be ſevere, or ſhould over-task them, Religion ſhould ſeem to them ra<g ref="char:EOLhyphen"/>ther a Burden than a Bleſſing.</p>
+            <p>As their Knowledge increaſes, ſo let their Prayers in<g ref="char:EOLhyphen"/>creaſe alſo, and teach them as they go to turn their Ca<g ref="char:EOLhyphen"/>techiſm into Prayers, after the manner which I ſhall ſhew you, and to confirm and improve their knowledge, bring them duly to the Church to be Catechiſed by the Pariſh Prieſt, that by his familiar and devout Explications of the Catechiſm, they may learn to underſtand it, and may be capable of reading the Expoſition on it, and other Books of Piety.</p>
+            <p>Take conſciencious care to ſeaſon your Children as ear<g ref="char:EOLhyphen"/>ly as you can, with the Love of God, which is <hi>the firſt and great Commandment,</hi> (Matth. 22. 38.) and with <hi>the</hi> 
+               <pb n="6" facs="tcp:175928:4"/>
+               <hi>fear of God, which is the beginning of Wiſdom,</hi> (Pſal. 111. 10.) for the awful love, and the filial fear of God, muſt al<g ref="char:EOLhyphen"/>ways go together.</p>
+            <p>The ſame method you obſerve in teaching your Chil<g ref="char:EOLhyphen"/>dren, the ſame you may obſerve in teaching your Servants, according as you ſee they want teaching, and you your ſelves will reap the benefit of it as well as your Servants for the more devout Servants they are of God, the more faithful Servants will they be to you.</p>
+            <p>Remember, you muſt teach both your Children and Servants by your Example, as well as by your Inſtruction, for they learn beſt by Example, and if they ſee you give an example of fraud or lying, of revenge or calumny, of uncleanneſs or drunkenneſs, of curſing and ſwearing, and irreligion; inſtead of teaching them to obey God, you teach them to provoke him; inſtead of teaching them to honour God, you teach them to blaſpheme him; inſtead of leading them the way to Heaven, you lead them the way to Hell; and you will increaſe your own Damnation, by furthering theirs, which God forbid you ſhould ever do.</p>
+            <p>Now that you may the better give a good Example to your Family, I will (by God's help) give you a method of daily D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>votion, taken for the moſt part out of the Ca<g ref="char:EOLhyphen"/>techiſm, which will be ſuitable to all <hi>Chriſtians,</hi> be they never ſo well inſtructed, and which you may by little and little teach your Children; and which thoſe who have been bred up in ignorance, and are Children in un<g ref="char:EOLhyphen"/>derſtanding, and yet willing to be taught, may learn to ſay alſo, as the Capacities of either do increaſe; for a <hi>Chriſtian</hi> muſt never ſtand at a ſtay, but muſt be always <hi>growing in Grace, and in the Knowledge of our Lord and Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt;</hi> (2 Pet. 3.
+18.)</p>
+            <div n="prayers" type="method">
+               <head>A Method of daily Prayer.</head>
+               <p>
+                  <hi>As ſoon as ever you awake, offer up your firſt thoughts and words to God, ſaying,</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:175928:4"/> 
+                  <hi>Glory be to the Father, and to the Son, and to the Holy Ghoſt: Three Perſons and one God bleſſed for evermore: All love, all praiſe be to thee.</hi>
+               </p>
+               <p>As you are riſing ſay,</p>
+               <p>
+                  <hi>I laid me down and ſlept, and roſe up a again, for the Lord ſuſtained me: All love, all glory be to God.</hi> (Pſal. 3. 5.)</p>
+               <p>
+                  <hi>As ſoon as you are dreſt, kneel down, as our Saviour himſelf</hi> kneel'd, (Luke 22. 41.) <hi>at his Prayers, and remember you are in God's preſence, and ſay your Prayers with Reverence and Devotion.</hi>
+               </p>
+               <div n="morning" type="prayer">
+                  <head>Morning Prayer.</head>
+                  <p>
+                     <hi>Glory be to thee, O Lord God, for my preſervation and refreſhment, and for all the Bleſſings of the night paſt, for which, all Love, all praiſe be to thee.</hi>
+                  </p>
+                  <p>
+                     <hi>Father, forgive me all the evil of the night paſt, for the Merits of Ieſus my Saviour.</hi> Amen.</p>
+                  <p>
+                     <hi>O merciful God, keep and protect, and bleſs me this day, and proſper me in my Calling, and preſerve me from ſin and danger, for the merit of Ieſus my Saviour,</hi> Amen.</p>
+                  <p>
+                     <hi>I believe in God the Father Almighty,</hi> &amp;c.</p>
+                  <p>
+                     <hi>All love, all glory be to thee, O God the Father, who haſt made me and all the World.</hi>
+                  </p>
+                  <p>
+                     <hi>All love, all glory be to thee, O God the Son, who haſt redeemed me and all Mankind.</hi>
+                  </p>
+                  <p>
+                     <hi>All love, all glory be to thee, O God the Holy-Ghoſt, who doeſt ſanctifie me, and all the elect People of God.</hi>
+                  </p>
+                  <p>
+                     <hi>All love, all glory be to thee, O Father of mercy, who in my Baptiſm didſt make me a Member of Chriſt, thy own Child, and an Inheritor of the Kingdom of Heaven.</hi>
+                  </p>
+                  <p>
+                     <hi>O my God, I do this Day dedicate my ſelf to thy Ser<g ref="char:EOLhyphen"/>vice, and do renew the Promiſe and Vow of my Bap<g ref="char:EOLhyphen"/>tiſm.</hi>
+                  </p>
+                  <p>
+                     <pb n="8" facs="tcp:175928:5"/> 
+                     <hi>I do from my heart renounce the Devil and all his Works, the Pomps and Vanity of this wicked World, and all the ſinful Luſts of the Fleſh; from all which, good Lord deliver me.</hi>
+                  </p>
+                  <p>
+                     <hi>I believe all the Articles of the Chriſtian Faith, and I will keep thy Holy Will and commandments, and walk in the ſame all the Days of my Life.</hi>
+                  </p>
+                  <p>
+                     <hi>All this, O Lord, I am bound to believe and do, and by thy help ſo I will; and I heartily thank thee, O Hea<g ref="char:EOLhyphen"/>venly Father, who haſt call'd me to this ſtate of Salva<g ref="char:EOLhyphen"/>tion, through Ieſus Chriſt my Saviour; and I pray unto thee to give me thy Grace, that I may continue in the ſame to my Lives end.</hi>
+                  </p>
+                  <p>
+                     <hi>Lord, hear me, help me, pardon my failings, ſupply all my Wants, and the Wants of all faithful People, which I ſum up in the words of thy own beloved Son.</hi>
+                  </p>
+                  <p>
+                     <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+                  <p>After the like manner you may pray at Night.</p>
+               </div>
+               <div n="evening" type="prayer">
+                  <head>Evening Prayer.</head>
+                  <p>
+                     <hi>Glory be to thee, O Lord, for my preſervation, and for all the Bleſſings of the Day paſt; for which, all love, all praiſe be to thee.</hi>
+                  </p>
+                  <p>
+                     <hi>Father, forgive me all the ſins I have this Day com<g ref="char:EOLhyphen"/>mitted, either in thought, or word, or deed, either againſt thee, or againſt my Neighbour, for the ſake of Ieſus my Saviour.</hi> Amen, Amen.</p>
+                  <p>
+                     <hi>It grieves me, O merciful God, that I ſhould daily of<g ref="char:EOLhyphen"/>fend thee: But I repent, O pitty and pardon me, for the ſake of Ieſus thy Beloved.</hi> Amen, Amen.</p>
+                  <p>
+                     <hi>O my God, keep and protect, and bleſs me this Night, and preſerve me from ſin and danger, for the ſake of Ieſus.</hi> Amen, Amen.</p>
+                  <p>
+                     <hi>Lord refreſh me this Night with ſeaſonable Sleep, that I may riſe the next Morning more fit and able to ſerve thee in my Calling, for the ſake of Ieſus thy Beloved.</hi> Amen, Amen.</p>
+                  <p>
+                     <pb n="9" facs="tcp:175928:5"/> 
+                     <hi>I believe in God the Father,</hi> &amp;c.</p>
+                  <p>
+                     <hi>All love, all glory be to thee, our God the Father, who,</hi> &amp;c. as in the Morning.</p>
+                  <p>
+                     <hi>I deſire thee, O Lord God, O Heavenly Father, who art the giver of all Goodneſs, to ſend thy Grace unto me,</hi> and to my Wife and Children, to my Husband and Children, Father and Mother, Brethren and Siſters, Kindred and Friends, Maſter and Miſtriſs, (you muſt name theſe Relations, according as you ſtand related) <hi>and to all People, that we may worſhip thee, ſerve thee, and obey thee, as we ought to do: And I pray unto thee, that thou would<g ref="char:punc">▪</g>ſt ſend us all things that be needful, both for our Souls and Bodies, and that thou wilt be merciful unto us, and forgive us our ſins; and that it will pleaſe thee, to ſave and defend us in all dangers, ghoſtly and bodily, and that thou wilt keep us from all ſin and wicked<g ref="char:EOLhyphen"/>neſs, and from our ghoſtly Enemy and from everlaſting Death: And this I truſt thou wilt do of thy mercy and goodneſs, through our Lord Ieſus Chriſt.</hi> Amen. <hi>Lord, ſo be it.</hi>
+                  </p>
+                  <p>
+                     <hi>Lord, hear me, help me, pardon my Failings, ſupply all my Wants, and the Wants of all for whom I pray, which I ſum up in the words of thy own beloved Son,</hi>
+                  </p>
+                  <p>
+                     <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+                  <p>As you are going to Bed, ſay,</p>
+                  <p>
+                     <hi>I will lay me down in peace and take my reſt, for it is thou, Lord, only that makeſt me dwell in ſafty,</hi> (Pſal. 4. 9.)</p>
+                  <p>As you began the Day, ſo end it with glorifying God, and when you are in Bed ſay,</p>
+                  <p>
+                     <hi>Glory be to the Father, and to the Son, and to the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, three Perſons and one God, bleſſed for evermore. All praiſe, all love be to thee.</hi>
+                  </p>
+                  <p>I earneſtly beg of God, to make you ſenſible your ſelves, and to give you grace to make your Children and Servants ſenſible alſo, how Neceſſary, and Happy, and Heavenly a Duty Prayer is, and how many <hi>exceeding great and precious Promiſes</hi> God has made to them that
+<pb n="10" facs="tcp:175928:6"/> devoutly pray to him; and if you are thus ſenſible, you will not con<g ref="char:EOLhyphen"/>tent your ſelves with Morning and Evening Prayer only, but you will be deſirous, if you have Opportunity, to retire about Mid-day<g ref="char:punc">▪</g> for a few Minutes, that you may imitate the Devotion of holy <hi>David,</hi> and of
+<hi>Daniel,</hi> and pray <hi>three times a Day,</hi> Dan. 6. 10. and that you may not want a help for Noon-tide Prayer, the Catechiſm ſhall ſupply you.</p>
+               </div>
+               <div n="midday" type="prayer">
+                  <head>Prayer at Noon.</head>
+                  <p>
+                     <hi>At Evening, and at Morning, and at Noon-day will I pray, and that inſtantly, Lord, hear my voice,</hi> (Pſal. 55. 19.)</p>
+                  <p>
+                     <hi>Glory be to the Father, and to the Son, and to the Ho<g ref="char:EOLhyphen"/>ly Ghoſt: As it was in the beginning, is now and ever ſhall be, World without end.</hi> Amen.</p>
+                  <p>
+                     <hi>All love all glory be to thee. O God, the Father, who haſt firſt loved us, and haſt given thy beloved Son to die for our Sins, and to riſe again for our Iuſtification.</hi>
+                  </p>
+                  <p>
+                     <hi>Have mercy upon me, O God, after thy great Good<g ref="char:EOLhyphen"/>neſs, according to the multitude of thy Mercies do away mine Offences.</hi>
+                  </p>
+                  <p>
+                     <hi>Waſh me throughly from my wickedneſs, and cleanſe me from my ſin.</hi>
+                  </p>
+                  <p>
+                     <hi>Make me a clean Heart, O God, and renew a right Spirit within me, for the ſake of Ieſus thy Beloved</hi> Amen.</p>
+                  <p>
+                     <hi>O Lord God, who ſeeſt I am not able of my ſelf to walk in thy commandments, and to ſerve thee; be plea<g ref="char:EOLhyphen"/>ſed to help and ſtrengthen me by thy ſpecial Grace, that I may daily and ſincerely perform my Duty towards thee, and my Duty towards my Neighbour, for the ſake of Ieſus my Saviour.</hi> Amen.</p>
+                  <p>
+                     <hi>O my God, give me grace to believe in thee, and to love thee with all my Heart, with all my Mind, with all my Soul, and with all my Strength; to worſhip thee, to give thee thanks, to put my whole truſt in thee, to call upon thee, to honour thy Holy Name and thy Word, and to ſerve thee truly all the Days of my Life, for the ſake of Ieſus thy Beleved.</hi> Amen.</p>
+                  <p>
+                     <pb n="11" facs="tcp:175928:6"/> 
+                     <hi>O my God, give me Grace to love my Neighbour as my ſelf, to do to all Men, as I would they ſhould do to me; to love honor and ſuccor my Father and Mother</hi> (this clauſe muſt be left out, if your Father and Mother be dead) <hi>to honor and obey the King, and all that are put in Authority under him; to ſubmit my ſelf to all my Governors, Teachers, Spiritual Paſtors, and Maſters; to order my ſelf lowly and reverently to all my Betters; to hurt no Body by Word or Deed; to be true and juſt in all my Dealing; to bear no malice nor hatred in my Heart; to keep my Hands from picking and ſteal<g ref="char:EOLhyphen"/>ing, and my Tongue from evil ſpeaking, lying and ſlan<g ref="char:EOLhyphen"/>dering; to keey my Body in temperance, ſoberneſs and chaſtity, nor to covet or deſire other Mens Goods, but to learn and labour truly to get mine own Living and to do my Duty in that ſtate of Life, unto which it has plea<g ref="char:EOLhyphen"/>ſed thee to call me, for the ſake of Ieſus thy Beloved.</hi> Amen.</p>
+                  <p>
+                     <hi>Lord hear me, help me, pardon my Failings, ſupply all my Wants, which I ſum up in the words of thy Belo<g ref="char:EOLhyphen"/>ved Son.</hi>
+                  </p>
+                  <p>
+                     <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+                  <p>Inſtead of theſe two laſt Prayers, you may ſometimes ſay the Ten Commandments, which you may turn into a very good Prayer, by ſaying after every one.</p>
+                  <p>
+                     <hi>Lord have Mercy upon me, and incline my Heart to keep this Law.</hi>
+                  </p>
+                  <p>Where you not only beg pardon for the ſins you have committed againſt each Commandment, but you alſo beg Grace to keep it.</p>
+                  <p>At the end of them you may ſay,</p>
+                  <p>
+                     <hi>Lord have Mercy upon me, and write all theſe thy Laws in my Heart, I beſeech thee.</hi>
+                  </p>
+                  <p>And ſo conclude with the Lord's Prayer.</p>
+                  <p>Do not think that this Practice of Prayer will be too hard, or too long for young Perſons, or for labouring People; for if you cannot ſay them all, ſay as much as you can; or if you are at Day Labour, or have not time or convenience to ſay them, offer up to God two or three hearty Ejaculations in their place: But if you can get time and convenience, ſay them all, and I dare aſſure you, that all the three <pb n="12" facs="tcp:175928:7"/> Forms of Prayer which I commend to you, will not in all take up a quarter of an hour; and certainly that Perſon has very little ſence of his Duty, very little concern for his immortal Soul, very little Ho<g ref="char:EOLhyphen"/>nour for God, or value for Heaven, who will not ſpend one quarter of an hour in the ſpace of four and twenty hours, in the Service of God, and the Salvation of his own Soul.</p>
+                  <p>I do by all means exhort you to give your Servants a few Minutes leiſure at Noon, to pray after your Example, and to uſe your Chil<g ref="char:EOLhyphen"/>dren to do the ſame, for they will ſoon be able to ſay the Lord's Prayer and two or three Ejaculations, and teach them to ſay theſe at Noon, as well as at Morning and at Night, and 'tis incredible to think how much good this Practice will do them, and what great comfort you your ſelves will reap from the early Devotion of your Children.</p>
+                  <p>To further this Devotion in your Children, inſtead of Idle Tales and Songs, which Pollute their Souls, and when they come to be ſeri<g ref="char:EOLhyphen"/>ous, will coſt them great pains to unlearn: You muſt teach them ſhort Pſalms by heart, which will exerciſe their Memories and Piety both together; and as you teach the Pſalms to your Children, I exhort you to learn them your ſelves,</p>
+                  <p>You cannot imagine the great benefit of learning Pſalms by heart; for when you are under any Temptation, or are in any Affliction, or when you lie Waking in the Night, or when you are Sick, theſe Pſalms will come into your Mind, and the Devout repeating them will yield you moſt ſeaſonable Conſolations.</p>
+                  <p>The very common People, in the firſt and pureſt Ages of the Church, were ſo ſenſible of the Spiritual Advantages of learning Pſalms, that they learned the whole Pſalter by heart, and ſung or ſaid the Pſalms in their Shops, and at the Plow, inſomuch that St.
+<hi>James</hi> makes it the proper Expreſſion of Chriſtian Mirth, (James
+5. 13.) <hi>If any be merry let him ſing Pſalms.</hi>
+                  </p>
+                  <p>This is the way to ſtore your own and your Childrens Minds with Ejaculations, or ſhort Prayers for all Occaſions, which I adviſe both Old and young to accuſtom themſelves to, becauſe it is the true way of Praying without ceaſing, and it is a kind of Prayer moſt eaſie, and may be uſed at any time of the day, or in any Place, and is one of the moſt efficacious means in the world to keep us in God's Favour, which is of all things moſt deſirable.</p>
+               </div>
+               <div n="exclamations" type="prayer">
+                  <head>Ejaculations.</head>
+                  <p>At going out, or coming in.</p>
+                  <p>
+                     <hi>Lord bleſs my going out and my coming in from rhis time forth for evermore.</hi> (Pſal, 121. 8.)</p>
+                  <p>
+                     <pb n="13" facs="tcp:175928:7"/> At Meales.</p>
+                  <p>
+                     <hi>Lord grant, that whether I eat or drink, or whatſoever I do, I may do all to thy glory.</hi> (1 Cor. 19. 31.)</p>
+                  <p>At Work.</p>
+                  <p>
+                     <hi>Proſper thou the Work of my Hands, O Lord O pro<g ref="char:EOLhyphen"/>ſper thou my Handy-work.</hi> (Pſal. 90. 17.)</p>
+                  <p>In the Shop, or Market.</p>
+                  <p>
+                     <hi>Lord, give me grace to uſe this World, ſo as not to abuſe it.</hi> (1 Cor. 7. 31.)</p>
+                  <p>
+                     <hi>Lord grant that I may never go beyond, or defraud my Brother in any matter, for thou art the Avenger of all ſuch.</hi> (1 Theſſ. 4. 6.)</p>
+                  <p>In temptation or danger.</p>
+                  <p>
+                     <hi>O God, make ſpeed to ſave me: O Lord, make haſte to help me.</hi>
+                  </p>
+                  <p>At any time of the Day.</p>
+                  <p>
+                     <hi>Wherever I am, whatever I do, Thou Lord ſeeſt me: O keep me in thy fear all the Day long.</hi> (Prov. 23. 17.)</p>
+                  <p>
+                     <hi>Lord, give me grace to keep always a Conſcience void of offence towards thee and towards Men,</hi> (Acts 24. 16.)</p>
+                  <p>
+                     <hi>Lord teach me ſo to number my Days, that I may ap<g ref="char:EOLhyphen"/>ply my heart to Wiſdom.</hi> (Pſal. 90. 12.)</p>
+                  <p>
+                     <hi>O let my Mouth be filled with thy Praiſe, that I may ſing of thy Glory and Honour all the Day long</hi> (Pſal. 71.7.)</p>
+                  <p>
+                     <hi>All love, all glory be to thee, O God, who didſt firſt love me.</hi>
+                  </p>
+                  <p>
+                     <hi>Vnto him that lov'd us, and waſh'd us from our ſins in his own Blood, be glory and dominion for ever and ever.</hi> Amen. (Rev. 1.
+5.)</p>
+                  <p>
+                     <hi>O bleſſed Spirit, ſhed abroad the love of God in my Heart.</hi>
+                  </p>
+                  <p>
+                     <hi>Praiſe the Lord, O my Soul, and all that is within me, Praiſe his Holy Name.</hi> Pſal. (103. 1.)</p>
+                  <p>
+                     <hi>Praiſe the Lord, O my Soul, while I live will I praiſe the Lord, Yea, as long as I have any Being, I will ſing Praiſes unto my God.</hi> (Pſal. 146. 1.)</p>
+                  <p>
+                     <pb n="14" facs="tcp:175928:8"/> You that have Families, I do farther exhort, that beſides your pri<g ref="char:EOLhyphen"/>vate Prayers, you would offer up to God, a Morning and Evening Sacrifice in your Families, and that every one of you would take up the Holy Reſolution of <hi>Joſhua, (as for me, and my Houſe, we will ſerve the Lord,</hi> (Joſh. 24. 15.) And the Prayers I adviſe you to uſe, are ta<g ref="char:EOLhyphen"/>ken out of the Common Prayer, as being moſt familiar, and of great<g ref="char:EOLhyphen"/>eſt Authority withall.</p>
+                  <p>If any of your Family are gone abroad to their Work before the reſt can be ready, call that little Congregation about you that is at home, and you that are preſent pray for thoſe that are abſent, and by this means thoſe that are abſent upon neceſſary Employments, will ſhare in the Bleſſings for which you pray.</p>
+               </div>
+               <div n="family" type="prayer">
+                  <head>Morning Prayer for a Family.</head>
+                  <p>
+                     <hi>Let the Words of our Mouths, and the Meditations of our hearts, be alway acceptable in thy ſight: O Lord, our Strength and our Redeemer.</hi>
+                  </p>
+                  <p>
+                     <hi>O God the Father of Heaven, have mercy upon us miſerable Sinners.</hi>
+                  </p>
+                  <p>
+                     <hi>O God the Son, Redeemer of the World, have mercy upon us miſerable Sinners.</hi>
+                  </p>
+                  <p>
+                     <hi>O God the Holy Ghoſt, proceeding from the Father and the Son, have mercy upon us mirerable Sinners.</hi>
+                  </p>
+                  <p>
+                     <hi>O Holy Bleſſed and Glorious Trinity, three Perſons and one God, have mercy upon us miſerable Sinners.</hi>
+                  </p>
+                  <p>
+                     <hi>O Lord we beſeech thee mercifully hear our Prayers, and ſpare all thoſe who confeſs their Sins unto thee, and they whoſe Conſciences by Sin are accuſed, by thy merci<g ref="char:EOLhyphen"/>ful pardon may be abſolved, through Chriſt our Lord.</hi> Amen.</p>
+                  <p>
+                     <hi>Almighty God, who ſeeſt that we have no power of our ſelves to help our ſelves, we give thee humble Thanks for thy preſervation of us this Day paſt (or this Night paſt) and for all the Bleſſings thou daily vouchſafeſt us; and we beſeech thee to keep us both outwardly in our Bodies, and inwardly in our Souls; that we may be defended from all Adverſities which may happen to the Body, and from all evil Thoughts which may aſſault and hurt the Soul, through Ieſus Chriſt our Lord.</hi> Amen.</p>
+                  <p>
+                     <pb n="15" facs="tcp:175928:8"/> 
+                     <hi>Almighty God, whoſe Kingdom is everlaſting, and power infinite, have mercy upon the whole Church, and ſo rule the Heart of thy Servant, our King and Governor, that he (knowing whoſe Miniſter he is) may above all things ſeek thy Honour and Glory, and that we and all his Subjects (duly conſidering whoſe Authority he hath) may faithfully ſerve, honour, and humbly obey him, in thee, and for thee, according to thy bleſſed Word and Ordi<g ref="char:EOLhyphen"/>nance, through Ieſus Chriſt our Lord, who liveth and reigneth ever one God, World without end.</hi> Amen.</p>
+                  <p>
+                     <hi>Vnto thy gracious Mercy and Protection, O Lord, do we commit our ſelves this Day, (or this Night) and all our Relations and Friends: Lord proſper us in our Cal<g ref="char:EOLhyphen"/>lings: Lord bleſs us and keep us: Lord make thy Face to ſhine upon us, and be gracious unto us: Lord lift up thy Countenance upon us and give us Peace, both now and evermore, for the ſake of Ieſus thy Beloved, in whoſe own bleſſed Words, we ſum up all our wants.</hi>
+                  </p>
+                  <p>
+                     <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+                  <p>The ſame form, changing but one word, is proper for the Night as well as the Morning, to make Family Prayer the more eaſie to you.</p>
+                  <p>That Prayer which I have ſet down, wherein you pray for the King, and pray for your ſelves alſo, that you may be good Subjects, I ex<g ref="char:EOLhyphen"/>hort you never to omit, becauſe you know that the Country wherein you live, was the only Seat of the late Rebellion, and the Tares of Sedition have been induſtriouſly ſown among you, and you have the greater reaſon to pray, that you may continue firm in your Allegiance; beſides, St.
+<hi>Paul</hi> teaches you, that <hi>to pray for Kings, is good and accept<g ref="char:EOLhyphen"/>able in the ſight of God our Saviour,</hi> (1 Tim. 2. 2, 3.)</p>
+                  <p>To your Family Prayers, you may add, as you ſee occaſion, one of theſe following.</p>
+                  <p>
+                     <hi>Almighty and everlaſting God<g ref="char:punc">▪</g> give unto us the increaſe of Faith. Hope and Charity, and that we may obtain war which thou doeſt promiſe, make us to love that which thou doeſt com<g ref="char:EOLhyphen"/>mand<g ref="char:punc">▪</g> through Ieſus Chriſt our Lord.</hi> Amen.</p>
+                  <p>
+                     <hi>Lord we beſeech thee, Grant thy People grace to withſtand the Temptations of the World<g ref="char:punc">▪</g> the Fleſh, and the Devil, and with pure Hearts and Minds to follow thee the only God, through Ieſus Chriſt our Lord.</hi> Amen.</p>
+                  <p>
+                     <pb n="16" facs="tcp:175928:9"/> 
+                     <hi>Prevent us, O Lord, in all our Doings, with thy moſt gracious favour, and further us with thy continual help, that in all our Works begun, continued, and ended in thee, we may glorifie thy holy Name, and finally, by thy mercy obtain everlaſting Life, through Ieſus Chriſt our Lord.</hi> Amen.</p>
+                  <p>Theſe and the like ſhort Prayers, may be ſaid alone in the Cloſet, as well as in the Family, by changing only the Number, and for (we) ſaying all along (I) and for (us) ſaying (me.) As for Ex<g ref="char:EOLhyphen"/>ample, when you read any part of the Holy Scripture, either alone by your ſelves, or with your Families, both which you ſhould do daily, if you have leiſure, but if you have not, ſee that you do both on the Lord's-Days, and on Holy-Days, and therefore Read<g ref="char:EOLhyphen"/>ing, ſay this Prayer.</p>
+                  <p>
+                     <hi>Bleſſed Lord, who haſt cauſed all Holy Scriptures to be written for our Learning, Grant that we (I) may in ſuchwiſe hear them, read, mark, learn, and inwardly di<g ref="char:EOLhyphen"/>geſt them, that by patience and comfort of thy Holy Word, we (I) may embrace, and ever hold faſt, the bleſſed hope of everlaſting Life, which thou haſt given us in our Sa<g ref="char:EOLhyphen"/>viour Ieſus Chriſt.</hi> Amen.</p>
+                  <p>God of his Infinite Mercy bleſs theſe Inſtructions to his Glory, and to the furtherance of your Devotions, through Jeſus the be<g ref="char:EOLhyphen"/>loved. <hi>Amen. Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175928:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
